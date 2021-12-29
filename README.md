@@ -12,6 +12,9 @@ Please check out some of my [personal repositories](https://github.com/rogervina
 * [🍀 Spring Cloud Stream & Kafka Streams Binder + Processor API](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-processor)
 * [🍀 Spring AutoConfiguration Demo](https://github.com/rogervinas/spring-boot-autoconfiguration-demo)
 * [🐋 Spring Boot with Docker](https://github.com/rogervinas/spring-boot-docker)
+* [🍀 Spring Immutable ConfigurationProperties PoC](https://github.com/rogervinas/spring-immutable-configuration-properties)
+* [🍀 Spring Cloud Sleuth in Action](https://github.com/rogervinas/spring-cloud-sleuth-in-action)
+* [⚔️ Scala in a Java Spring Boot Project](https://github.com/rogervinas/scala-java-spring-boot)
 
 And also some of the ones that I co-authored under [AdevintaSpain](https://github.com/AdevintaSpain):
 
@@ -21,3 +24,13 @@ And also some of the ones that I co-authored under [AdevintaSpain](https://githu
 * [🐳 Spring Boot with Docker](https://github.com/AdevintaSpain/spring-boot-docker)
 * [🤐 Spring Cloud Config add-on that provides encryption via AWS KMS](https://github.com/AdevintaSpain/spring-cloud-config-aws-kms) forked from [zalando/spring-cloud-config-aws-kms](https://github.com/zalando/spring-cloud-config-aws-kms)
 * [🤐 Spring Cloud Config AWS KMS Test](https://github.com/AdevintaSpain/spring-cloud-config-aws-kms-test)
+
+And other fun coding stuff:
+
+* [👋 HelloWorld with HTML5 canvas](https://github.com/rogervinas/hello-world-html5-canvas) 👉 https://rogervinas.github.io/hello-world-html5-canvas/
+* [🤯 Einstein–Podolsky–Rosen Paradox](https://github.com/rogervinas/epr-paradox) 👉 https://rogervinas.github.io/epr-paradox/
+* [🐐 Monty Hall Paradox empiric proof](https://github.com/rogervinas/monty-hall-paradox) 👉 https://rogervinas.github.io/monty-hall-paradox/
+* [🔊 Server sending random sounds to be played by its connected clients](https://github.com/rogervinas/random-sound-broadcast)
+
+Happy coding!
+
