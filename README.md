@@ -30,7 +30,7 @@ And other fun coding stuff:
 * [👋 HelloWorld with HTML5 canvas](https://github.com/rogervinas/hello-world-html5-canvas) 👉 https://rogervinas.github.io/hello-world-html5-canvas/
 * [🤯 Einstein–Podolsky–Rosen Paradox](https://github.com/rogervinas/epr-paradox) 👉 https://rogervinas.github.io/epr-paradox/
 * [🐐 Monty Hall Paradox empiric proof](https://github.com/rogervinas/monty-hall-paradox) 👉 https://rogervinas.github.io/monty-hall-paradox/
-* [🔊 Server sending random sounds to be played by its connected clients](https://github.com/rogervinas/random-sound-broadcast)
+* [🔊 Server sending random sounds to be played by its connected clients via websockets](https://github.com/rogervinas/random-sound-broadcast)
 
 Happy coding!
 
