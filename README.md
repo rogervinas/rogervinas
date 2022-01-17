@@ -4,7 +4,9 @@ I am a backend engineer and you can follow me on [twitter/@rogervinasalcon](http
 
 I am currently working as a contractor for a few companies and I develop mainly 🍀 **Spring Boot** services **Java** / **Kotlin** deployed in-house 🏠 or in the cloud ☁️
 
-Please check out some of my [personal repositories](https://github.com/rogervinas?tab=repositories):
+Please read my posts at [dev.to/rogervinas](https://dev.to/rogervinas), thank you!
+
+Some of my [personal repositories](https://github.com/rogervinas?tab=repositories):
 
 * [🍀 Spring Cloud Stream Kafka - step by step](https://github.com/rogervinas/spring-cloud-stream-kafka-step-by-step)
 * [🍀 Spring Cloud Stream & Kafka Streams Binder - first steps](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-first-steps)
@@ -16,7 +18,7 @@ Please check out some of my [personal repositories](https://github.com/rogervina
 * [🍀 Spring Cloud Sleuth in Action](https://github.com/rogervinas/spring-cloud-sleuth-in-action)
 * [⚔️ Scala in a Java Spring Boot Project](https://github.com/rogervinas/scala-java-spring-boot)
 
-And also some of the ones that I co-authored under [AdevintaSpain](https://github.com/AdevintaSpain):
+Some of the ones that I co-authored under [AdevintaSpain](https://github.com/AdevintaSpain):
 
 * [🦄 Wonderful FreshAir Application - Kotlin & Arrow sample](https://github.com/AdevintaSpain/wonderful-freshair-app)
 * [🌍  MicroServices Hello World Live from Twitch!](https://github.com/AdevintaSpain/ms-test--hello-twitch)
