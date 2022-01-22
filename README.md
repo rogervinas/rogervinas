@@ -1,6 +1,9 @@
 ### Hola! 👋
 
-I am a backend engineer and you can follow me on [twitter/@rogervinasalcon](https://twitter.com/rogervinasalcon) + [dev.to/rogervinas](https://dev.to/rogervinas) + [linkedin/rogervinas](https://www.linkedin.com/in/rogervinas)
+I am a backend engineer and you can follow me on:
+* [twitter/@rogervinasalcon](https://twitter.com/rogervinasalcon)
+* [dev.to/rogervinas](https://dev.to/rogervinas)
+* [linkedin/rogervinas](https://www.linkedin.com/in/rogervinas)
 
 I am currently working as a contractor for a few companies and I develop mainly 🍀 **Spring Boot** services **Java** / **Kotlin** deployed in-house 🏠 or in the cloud ☁️
 
