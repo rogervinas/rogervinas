@@ -11,10 +11,11 @@ Please read my posts at [dev.to/rogervinas](https://dev.to/rogervinas), thank yo
 
 Some of my [personal repositories](https://github.com/rogervinas?tab=repositories):
 
-* [🍀 Spring Cloud Stream Kafka - step by step](https://github.com/rogervinas/spring-cloud-stream-kafka-step-by-step)
-* [🍀 Spring Cloud Stream & Kafka Streams Binder - first steps](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-first-steps)
-* [🍀 Spring Cloud Stream Multibinder - Kafka & Kafka Streams](https://github.com/rogervinas/spring-cloud-stream-multibinder)
-* [🍀 Spring Cloud Stream & Kafka Streams Binder + Processor API](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-processor)
+* 🍀 Spring Cloud Stream series
+  * [🍀 Spring Cloud Stream Kafka - step by step](https://github.com/rogervinas/spring-cloud-stream-kafka-step-by-step)
+  * [🍀 Spring Cloud Stream & Kafka Streams Binder - first steps](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-first-steps)
+  * [🍀 Spring Cloud Stream Multibinder - Kafka & Kafka Streams](https://github.com/rogervinas/spring-cloud-stream-multibinder)
+  * [🍀 Spring Cloud Stream & Kafka Streams Binder + Processor API](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-processor)
 * [🍀 Spring AutoConfiguration Demo](https://github.com/rogervinas/spring-boot-autoconfiguration-demo)
 * [🐳 Spring Boot with Docker](https://github.com/rogervinas/spring-boot-docker)
 * [🍀 Spring Immutable ConfigurationProperties PoC](https://github.com/rogervinas/spring-immutable-configuration-properties)
