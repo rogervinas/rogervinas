@@ -11,6 +11,7 @@ Please read my posts at [dev.to/rogervinas](https://dev.to/rogervinas), thank yo
 
 Some of my [personal repositories](https://github.com/rogervinas?tab=repositories):
 
+* [🤹 WireMock Testing](https://github.com/rogervinas/wiremock-testing)
 * [🍀 Spring Cloud Stream Kafka - step by step](https://github.com/rogervinas/spring-cloud-stream-kafka-step-by-step)
 * [🍀 Spring Cloud Stream & Kafka Streams Binder - first steps](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-first-steps)
 * [🍀 Spring Cloud Stream Multibinder - Kafka & Kafka Streams](https://github.com/rogervinas/spring-cloud-stream-multibinder)
