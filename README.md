@@ -15,7 +15,7 @@ Some of my [personal repositories](https://github.com/rogervinas?tab=repositorie
 * [🤹 WireMock Testing with @WireMockTest and WireMock Docker](https://github.com/rogervinas/wiremock-testing)
 * [🎭 MockServer Testing](https://github.com/rogervinas/mockserver-testing)
 * [🍀 Spring Cloud Stream Kafka - step by step](https://github.com/rogervinas/spring-cloud-stream-kafka-step-by-step)
-* [🍀 Spring Cloud Stream Kafka Schema Registry](https://github.com/rogervinas/spring-cloud-stream-kafka-schema-registry)
+* [🍀 Spring Cloud Stream Kafka + Confluent Schema Registry](https://github.com/rogervinas/spring-cloud-stream-kafka-schema-registry)
 * [🍀 Spring Cloud Stream & Kafka Streams Binder - first steps](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-first-steps)
 * [🍀 Spring Cloud Stream Multibinder - Kafka & Kafka Streams](https://github.com/rogervinas/spring-cloud-stream-multibinder)
 * [🍀 Spring Cloud Stream & Kafka Streams Binder + Processor API](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-processor)
