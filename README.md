@@ -14,16 +14,18 @@ Some of my [personal repositories](https://github.com/rogervinas?tab=repositorie
 * [🧞‍♂️ First Steps Developing Custom Gradle Plugins](https://github.com/rogervinas/gradle-plugins-first-steps) 
 * [🤹 WireMock Testing with @WireMockTest and WireMock Docker](https://github.com/rogervinas/wiremock-testing)
 * [🎭 MockServer Testing](https://github.com/rogervinas/mockserver-testing)
-* [🍀 Spring Cloud Stream Kafka - step by step](https://github.com/rogervinas/spring-cloud-stream-kafka-step-by-step)
-* [🍀 Spring Cloud Stream & Kafka Confluent Avro Schema Registry](https://github.com/rogervinas/spring-cloud-stream-kafka-confluent-avro-schema-registry)
-* [🍀 Spring Cloud Stream & Kafka Streams Binder - first steps](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-first-steps)
-* [🍀 Spring Cloud Stream Multibinder - Kafka & Kafka Streams](https://github.com/rogervinas/spring-cloud-stream-multibinder)
-* [🍀 Spring Cloud Stream & Kafka Streams Binder + Processor API](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-processor)
-* [🍀 Spring AutoConfiguration Demo](https://github.com/rogervinas/spring-boot-autoconfiguration-demo)
-* [🐳 Spring Boot with Docker](https://github.com/rogervinas/spring-boot-docker)
-* [🍀 Spring Immutable ConfigurationProperties PoC](https://github.com/rogervinas/spring-immutable-configuration-properties)
-* [🍀 Spring Cloud Sleuth in Action](https://github.com/rogervinas/spring-cloud-sleuth-in-action)
-* [⚔️ Scala in a Java Spring Boot Project](https://github.com/rogervinas/scala-java-spring-boot)
+* Spring Cloud Stream:
+  * [🍀 Spring Cloud Stream Kafka - step by step](https://github.com/rogervinas/spring-cloud-stream-kafka-step-by-step)
+  * [🍀 Spring Cloud Stream Kafka & Confluent Avro Schema Registry](https://github.com/rogervinas/spring-cloud-stream-kafka-confluent-avro-schema-registry)
+  * [🍀 Spring Cloud Stream & Kafka Streams Binder - first steps](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-first-steps)
+  * [🍀 Spring Cloud Stream Multibinder - Kafka & Kafka Streams](https://github.com/rogervinas/spring-cloud-stream-multibinder)
+  * [🍀 Spring Cloud Stream & Kafka Streams Binder + Processor API](https://github.com/rogervinas/spring-cloud-stream-kafka-streams-processor)
+* Spring:
+  * [🍀 Spring AutoConfiguration Demo](https://github.com/rogervinas/spring-boot-autoconfiguration-demo)
+  * [🐳 Spring Boot with Docker](https://github.com/rogervinas/spring-boot-docker)
+  * [🍀 Spring Immutable ConfigurationProperties PoC](https://github.com/rogervinas/spring-immutable-configuration-properties)
+  * [🍀 Spring Cloud Sleuth in Action](https://github.com/rogervinas/spring-cloud-sleuth-in-action)
+  * [⚔️ Scala in a Java Spring Boot Project](https://github.com/rogervinas/scala-java-spring-boot)
 
 Some of the ones that I co-authored under [AdevintaSpain](https://github.com/AdevintaSpain):
 
