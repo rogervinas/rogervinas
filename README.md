@@ -11,7 +11,7 @@ Please read my posts at [dev.to/rogervinas](https://dev.to/rogervinas), thank yo
 
 Some of my [personal repositories](https://github.com/rogervinas?tab=repositories):
 
-* [🧟‍♂️ Mutation Testing with Pitest](https://github.com/rogervinas/mutation-testing)
+* [🧟‍♂️ Mutation Testing with Pitest and Kotlin](https://github.com/rogervinas/mutation-testing)
 * [🧞‍♂️ First Steps Developing Custom Gradle Plugins](https://github.com/rogervinas/gradle-plugins-first-steps) 
 * [🤹 WireMock Testing with @WireMockTest and WireMock Docker](https://github.com/rogervinas/wiremock-testing)
 * [🎭 MockServer Testing](https://github.com/rogervinas/mockserver-testing)
