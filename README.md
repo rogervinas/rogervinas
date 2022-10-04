@@ -11,10 +11,11 @@ Please read my posts at [dev.to/rogervinas](https://dev.to/rogervinas), thank yo
 
 Some of my [personal repositories](https://github.com/rogervinas?tab=repositories):
 
-* [🧟‍♂️ Mutation Testing with Pitest and Kotlin](https://github.com/rogervinas/mutation-testing)
-* [🧞‍♂️ First Steps Developing Custom Gradle Plugins](https://github.com/rogervinas/gradle-plugins-first-steps) 
-* [🤹 WireMock Testing with @WireMockTest and WireMock Docker](https://github.com/rogervinas/wiremock-testing)
-* [🎭 MockServer Testing](https://github.com/rogervinas/mockserver-testing)
+* Testing
+  * [📸 Snapshot Testing with Kotlin](https://github.com/rogervinas/snapshot-testing)
+  * [🧟‍♂️ Mutation Testing with Pitest and Kotlin](https://github.com/rogervinas/mutation-testing)
+  * [🤹 WireMock Testing with @WireMockTest and WireMock Docker](https://github.com/rogervinas/wiremock-testing)
+  * [🎭 MockServer Testing](https://github.com/rogervinas/mockserver-testing)
 * Spring Cloud Stream:
   * [🍀 Spring Cloud Stream Kafka - step by step](https://github.com/rogervinas/spring-cloud-stream-kafka-step-by-step)
   * [🍀 Spring Cloud Stream Kafka & Confluent Avro Schema Registry](https://github.com/rogervinas/spring-cloud-stream-kafka-confluent-avro-schema-registry)
@@ -27,6 +28,8 @@ Some of my [personal repositories](https://github.com/rogervinas?tab=repositorie
   * [🍀 Spring Immutable ConfigurationProperties PoC](https://github.com/rogervinas/spring-immutable-configuration-properties)
   * [🍀 Spring Cloud Sleuth in Action](https://github.com/rogervinas/spring-cloud-sleuth-in-action)
   * [⚔️ Scala in a Java Spring Boot Project](https://github.com/rogervinas/scala-java-spring-boot)
+* Other
+  * [🧞‍♂️ First Steps Developing Custom Gradle Plugins](https://github.com/rogervinas/gradle-plugins-first-steps)
 
 Some of the ones that I co-authored under [AdevintaSpain](https://github.com/AdevintaSpain):
 
