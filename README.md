@@ -11,6 +11,7 @@ Please read my posts at [dev.to/rogervinas](https://dev.to/rogervinas), thank yo
 
 Some of my [personal repositories](https://github.com/rogervinas?tab=repositories):
 
+* [⭐ Top 5 Server-Side Frameworks for Kotlin in 2022](https://github.com/rogervinas/top-5-server-side-kotlin-frameworks-2022)
 * Testing
   * [📸 Snapshot Testing with Kotlin](https://github.com/rogervinas/snapshot-testing)
   * [🧟‍♂️ Mutation Testing with Pitest and Kotlin](https://github.com/rogervinas/mutation-testing)
