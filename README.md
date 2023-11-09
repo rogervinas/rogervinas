@@ -15,7 +15,7 @@ Some of my [personal repositories](https://github.com/rogervinas?tab=repositorie
 * Testing
   * [📸 Snapshot Testing with Kotlin](https://github.com/rogervinas/snapshot-testing)
   * [🧟‍♂️ Mutation Testing with Pitest and Kotlin](https://github.com/rogervinas/mutation-testing)
-  * [🤹 WireMock Testing with @WireMockTest and WireMock Docker](https://github.com/rogervinas/wiremock-testing)
+  * [🤹 WireMock Testing with @WireMockTest, WireMock Docker and WireMock Testcontainers](https://github.com/rogervinas/wiremock-testing)
   * [🎭 MockServer Testing](https://github.com/rogervinas/mockserver-testing)
   * [🤝 Contract Testing with Pact](https://github.com/rogervinas/contract-testing-with-pact)
 * Spring Cloud Stream:
