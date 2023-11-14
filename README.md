@@ -27,7 +27,7 @@ Some of my [personal repositories](https://github.com/rogervinas?tab=repositorie
 * Spring:
   * [🍀 Spring AutoConfiguration Demo](https://github.com/rogervinas/spring-boot-autoconfiguration-demo)
   * [🐳 Spring Boot with Docker](https://github.com/rogervinas/spring-boot-docker)
-  * [🍀 Spring Immutable ConfigurationProperties PoC](https://github.com/rogervinas/spring-immutable-configuration-properties)
+  * [🍀 Spring Immutable ConfigurationProperties](https://github.com/rogervinas/spring-immutable-configuration-properties)
   * [🍀 Spring Cloud Sleuth in Action](https://github.com/rogervinas/spring-cloud-sleuth-in-action)
   * [⚔️ Scala in a Java Spring Boot Project](https://github.com/rogervinas/scala-java-spring-boot)
 * Other
