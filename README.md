@@ -13,6 +13,7 @@ Some of my [personal repositories](https://github.com/rogervinas?tab=repositorie
 
 * [⭐ Top 5 Server-Side Frameworks for Kotlin in 2022](https://github.com/rogervinas/top-5-server-side-kotlin-frameworks-2022)
 * Testing
+  * [🤩 Tests, Tests Everywhere!](https://github.com/rogervinas/tests-everywhere)
   * [📸 Snapshot Testing with Kotlin](https://github.com/rogervinas/snapshot-testing)
   * [🧟‍♂️ Mutation Testing with Pitest and Kotlin](https://github.com/rogervinas/mutation-testing)
   * [🤹 WireMock Testing with @WireMockTest, WireMock Docker and WireMock Testcontainers](https://github.com/rogervinas/wiremock-testing)
