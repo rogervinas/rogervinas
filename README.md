@@ -31,6 +31,9 @@ Some of my [personal repositories](https://github.com/rogervinas?tab=repositorie
   * [🍀 Spring Immutable ConfigurationProperties](https://github.com/rogervinas/spring-immutable-configuration-properties)
   * [🍀 Spring Cloud Sleuth in Action](https://github.com/rogervinas/spring-cloud-sleuth-in-action)
   * [⚔️ Scala in a Java Spring Boot Project](https://github.com/rogervinas/scala-java-spring-boot)
+* Apache Camel
+  * [🐪 Spring Boot Apache Camel + ActiveMQ Artemis with SSL Dual Authentication](https://github.com/rogervinas/spring-boot-camel-activemq-artemis)
+  * [🐪 Spring Boot Apache Camel + Kafka + Cassandra](https://github.com/rogervinas/spring-boot-camel-kafka-cassandra)
 * Other
   * [🧞‍♂️ First Steps Developing Custom Gradle Plugins](https://github.com/rogervinas/gradle-plugins-first-steps)
 
