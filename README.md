@@ -11,6 +11,7 @@ Please read my posts at [dev.to/rogervinas](https://dev.to/rogervinas), thank yo
 
 Some of my [personal repositories](https://github.com/rogervinas?tab=repositories):
 
+* [🐱‍💻 TryHackMe rooms writeups!](https://github.com/rogervinas/TryHackMe)
 * [⭐ Top 5 Server-Side Frameworks for Kotlin in 2022](https://github.com/rogervinas/top-5-server-side-kotlin-frameworks-2022)
 * Testing
   * [🤠 Tests, Tests Everywhere!](https://github.com/rogervinas/tests-everywhere)
