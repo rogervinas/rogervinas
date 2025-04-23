@@ -11,9 +11,9 @@ Please read my posts at [dev.to/rogervinas](https://dev.to/rogervinas), thank yo
 
 Some of my [personal repositories](https://github.com/rogervinas?tab=repositories):
 
-* [🐱‍💻 TryHackMe writeups!](https://github.com/rogervinas/TryHackMe)
 * [⭐ Top 5 Server-Side Frameworks for Kotlin in 2022](https://github.com/rogervinas/top-5-server-side-kotlin-frameworks-2022)
 * Testing
+  * [🍀 🤖 Spring Boot AI - Evaluation Testing](https://github.com/rogervinas/spring-boot-ai)
   * [🤠 Tests, Tests Everywhere!](https://github.com/rogervinas/tests-everywhere)
   * [📸 Snapshot Testing with Kotlin](https://github.com/rogervinas/snapshot-testing)
   * [🧟‍♂️ Mutation Testing with Pitest and Kotlin](https://github.com/rogervinas/mutation-testing)
@@ -36,6 +36,7 @@ Some of my [personal repositories](https://github.com/rogervinas?tab=repositorie
   * [🐪 Spring Boot + Apache Camel + ActiveMQ Artemis with SSL Dual Authentication](https://github.com/rogervinas/spring-boot-camel-activemq-artemis)
   * [🐪 Spring Boot + Apache Camel + Kafka + Cassandra](https://github.com/rogervinas/spring-boot-camel-kafka-cassandra)
 * Other
+  * [🐱‍💻 TryHackMe writeups!](https://github.com/rogervinas/TryHackMe)
   * [🧞‍♂️ First Steps Developing Custom Gradle Plugins](https://github.com/rogervinas/gradle-plugins-first-steps)
 
 Some of the ones that I co-authored under [AdevintaSpain](https://github.com/AdevintaSpain):
